@@ -5,12 +5,11 @@
 
 This guide does NOT cover creating .deb files but will briefly cover assiging depictions.
 
-#### CREDITS TO: [tie1r](https://tie1r.xyz/host)& [AppTapp Team](https://twitter.com/AppTappTeam)
+#### CREDITS TO: [tie1r](https://tie1r.xyz/host) & [AppTapp Team](https://twitter.com/AppTappTeam)
 
 ## How to use this template
-If you are *not* hosting your repo on [Github Pages](https://pages.github.com/), you can download the zip file [here](https://github.com/sukarodo/Sidia/archive/master.zip) and extract to a subfolder on your website.
-<br>
-#### Installer 3 at last!
+If you are *not* hosting your repo on [Github Pages](https://pages.github.com/), you can download the zip file [here](https://github.com/sukarodo/Sidia/archive/Installer-3.zip) and extract to a subfolder on your website.
 
+#### Installer 3 at last!
 If you haven't done yet, go ahead and add your repo to Installer 3.
 You should now be able to install your tweak from your own repo.
